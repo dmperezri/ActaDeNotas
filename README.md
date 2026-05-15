@@ -48,10 +48,10 @@ Al finalizar el ingreso, el sistema genera:
 
 * **Acta de Notas**: Un listado organizado en orden alfabético por apellidos que incluye todas las notas y estados (¿Aprobado?, ¿Deserción?).
 * **Estadísticas del Curso**:
-* Matrícula inicial y matrícula efectiva.
-* Cantidad y porcentaje de aprobados/reprobados.
-* Número de deserciones.
-* Nota mínima, máxima y promedio del curso.
+  1. Matrícula inicial y matrícula efectiva.
+  2. Cantidad y porcentaje de aprobados/reprobados.
+  3. Número de deserciones.
+  4. Nota mínima, máxima y promedio del curso.
 
 
 ---
@@ -61,11 +61,11 @@ Al finalizar el ingreso, el sistema genera:
 La implementación hace uso de los siguientes componentes de programación:
 
 * **Tipos de datos**: Uso de primitivos y manejo de hasta dos dígitos decimales para precisión numérica.
-**Estructuras de Control**: Lógica condicional y bucles para el procesamiento de datos y repetición de la aplicación.
-**Arreglos**: Para el almacenamiento de la lista de estudiantes y sus notas.
-**Algoritmos**: Implementación de búsqueda y ordenamiento (alfabético por apellido).
-**Manejo de excepciones donde estime necesario**
-**Modularidad**: Uso de métodos definidos por el programador y manejo de excepciones.
+* **Estructuras de Control**: Lógica condicional y bucles para el procesamiento de datos y repetición de la aplicación.
+* **Arreglos**: Para el almacenamiento de la lista de estudiantes y sus notas.
+* **Algoritmos**: Implementación de búsqueda y ordenamiento (alfabético por apellido).
+* **Manejo de excepciones donde estime necesario**
+* **Modularidad**: Uso de métodos definidos por el programador y manejo de excepciones.
 
 
 ---
