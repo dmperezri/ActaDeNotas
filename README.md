@@ -15,8 +15,9 @@ La aplicación solicita o precarga la siguiente información inicial:
 * **Nombre del curso**.
 * **Período lectivo**.
 * **Carrera y Modalidad**.
-* **Códigos**: Código de asignatura, de programa y de curso.
-* **Grupo** y **Cantidad de estudiantes**.
+* **Códigos**: Código de asignatura, de programa de asignatura y de curso.
+* **Grupo**
+* **Cantidad de estudiantes**.
 
 ---
 
@@ -26,7 +27,8 @@ La aplicación solicita o precarga la siguiente información inicial:
 
 Para cada estudiante, el sistema solicita:
 
-* **Identificación**: Número de carnet y nombres/apellidos.
+* **Número de carnet**
+* **Nombres y apellidos**
 * **Evaluación estándar**: Primer parcial (máximo 35.00) y Sistemáticos (máximo 30.00).
 * **Lógica de Proyecto**:
   1. Si la asignatura incluye proyecto, se pide nota de Proyecto (máximo 35.00) en lugar del segundo parcial.
@@ -62,6 +64,7 @@ La implementación hace uso de los siguientes componentes de programación:
 **Estructuras de Control**: Lógica condicional y bucles para el procesamiento de datos y repetición de la aplicación.
 **Arreglos**: Para el almacenamiento de la lista de estudiantes y sus notas.
 **Algoritmos**: Implementación de búsqueda y ordenamiento (alfabético por apellido).
+**Manejo de excepciones donde estime necesario**
 **Modularidad**: Uso de métodos definidos por el programador y manejo de excepciones.
 
 
